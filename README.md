@@ -30,7 +30,6 @@ I'm a cybersecurity student, Apple Genius Admin, and Army Reserves (94F) with a 
 
 ![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r3d-aggro&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3d-aggro&layout=compact&theme=dark&hide_border=true)
 
 ---
 
